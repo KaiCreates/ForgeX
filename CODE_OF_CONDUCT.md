@@ -1,128 +1,129 @@
-# Contributor Covenant Code of Conduct
+# ForgeX Community Code of Conduct
 
-## Our Pledge
+## Our Commitment
 
-We as members, contributors, and leaders pledge to make participation in our
-community a harassment-free experience for everyone, regardless of age, body
-size, visible or invisible disability, ethnicity, sex characteristics, gender
-identity and expression, level of experience, education, socio-economic status,
-nationality, personal appearance, race, religion, or sexual identity
-and orientation.
+At ForgeX, we are committed to creating a welcoming, collaborative, and respectful environment for everyone.
 
-We pledge to act and interact in ways that contribute to an open, welcoming,
-diverse, inclusive, and healthy community.
+As contributors, maintainers, and community members, we pledge to foster a community that is open, inclusive, professional, and free from harassment. We welcome individuals of all backgrounds, skill levels, experiences, and perspectives.
 
-## Our Standards
+Our goal is to build a positive community where creators, developers, modders, and enthusiasts can learn, collaborate, and innovate together.
 
-Examples of behavior that contributes to a positive environment for our
-community include:
+---
 
-* Demonstrating empathy and kindness toward other people
-* Being respectful of differing opinions, viewpoints, and experiences
-* Giving and gracefully accepting constructive feedback
-* Accepting responsibility and apologizing to those affected by our mistakes,
-  and learning from the experience
-* Focusing on what is best not just for us as individuals, but for the
-  overall community
+## Community Standards
 
-Examples of unacceptable behavior include:
+### Positive Behavior
 
-* The use of sexualized language or imagery, and sexual attention or
-  advances of any kind
-* Trolling, insulting or derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing others' private information, such as a physical or email
-  address, without their explicit permission
-* Other conduct which could reasonably be considered inappropriate in a
-  professional setting
+Examples of behavior that contributes to a healthy ForgeX community include:
+
+* Treating others with respect and professionalism.
+* Being constructive when providing feedback.
+* Helping new members learn and grow.
+* Sharing knowledge and resources openly.
+* Accepting responsibility for mistakes and learning from them.
+* Encouraging collaboration and teamwork.
+* Focusing on improving ForgeX and supporting the community.
+
+### Unacceptable Behavior
+
+The following behaviors are not tolerated within the ForgeX community:
+
+* Harassment, intimidation, or discrimination of any kind.
+* Personal attacks, insults, or hostile behavior.
+* Trolling, baiting, or intentionally disruptive conduct.
+* Sharing private or confidential information without permission.
+* Threatening language or abusive communication.
+* Sexualized language, content, or unwanted advances.
+* Spam, malicious content, or harmful activities.
+* Any conduct that creates an unsafe or hostile environment.
+
+---
 
 ## Enforcement Responsibilities
 
-Community leaders are responsible for clarifying and enforcing our standards of
-acceptable behavior and will take appropriate and fair corrective action in
-response to any behavior that they deem inappropriate, threatening, offensive,
-or harmful.
+ForgeX maintainers and community moderators are responsible for enforcing this Code of Conduct fairly and consistently.
 
-Community leaders have the right and responsibility to remove, edit, or reject
-comments, commits, code, wiki edits, issues, and other contributions that are
-not aligned to this Code of Conduct, and will communicate reasons for moderation
-decisions when appropriate.
+Moderators may remove, edit, or reject content, comments, pull requests, issues, discussions, or contributions that violate these guidelines.
+
+Moderation decisions will be made with the goal of protecting the community and maintaining a productive environment.
+
+---
 
 ## Scope
 
-This Code of Conduct applies within all community spaces, and also applies when
-an individual is officially representing the community in public spaces.
-Examples of representing our community include using an official e-mail address,
-posting via an official social media account, or acting as an appointed
-representative at an online or offline event.
+This Code of Conduct applies to all ForgeX community spaces, including:
 
-## Enforcement
+* GitHub repositories
+* Discord servers
+* Documentation platforms
+* Social media channels
+* Community events
+* Development discussions
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders responsible for enforcement at
-alexguirre.aa@gmail.com.
-All complaints will be reviewed and investigated promptly and fairly.
+It also applies when an individual is publicly representing ForgeX.
 
-All community leaders are obligated to respect the privacy and security of the
-reporter of any incident.
+---
+
+## Reporting Issues
+
+If you experience or witness behavior that violates this Code of Conduct, please report it to the ForgeX team.
+
+### Contact
+
+ForgeX Development Team
+
+Maintainers:
+
+* Kai
+* Bobby
+
+Reports will be reviewed promptly and confidentially whenever possible.
+
+---
 
 ## Enforcement Guidelines
 
-Community leaders will follow these Community Impact Guidelines in determining
-the consequences for any action they deem in violation of this Code of Conduct:
+### Level 1 — Reminder
 
-### 1. Correction
+**Impact:** Minor misconduct or accidental violations.
 
-**Community Impact**: Use of inappropriate language or other behavior deemed
-unprofessional or unwelcome in the community.
+**Action:** Friendly reminder and clarification of community expectations.
 
-**Consequence**: A private, written warning from community leaders, providing
-clarity around the nature of the violation and an explanation of why the
-behavior was inappropriate. A public apology may be requested.
+---
 
-### 2. Warning
+### Level 2 — Official Warning
 
-**Community Impact**: A violation through a single incident or series
-of actions.
+**Impact:** Repeated misconduct or disruptive behavior.
 
-**Consequence**: A warning with consequences for continued behavior. No
-interaction with the people involved, including unsolicited interaction with
-those enforcing the Code of Conduct, for a specified period of time. This
-includes avoiding interactions in community spaces as well as external channels
-like social media. Violating these terms may lead to a temporary or
-permanent ban.
+**Action:** Written warning from moderators outlining the violation and expected improvements.
 
-### 3. Temporary Ban
+---
 
-**Community Impact**: A serious violation of community standards, including
-sustained inappropriate behavior.
+### Level 3 — Temporary Suspension
 
-**Consequence**: A temporary ban from any sort of interaction or public
-communication with the community for a specified period of time. No public or
-private interaction with the people involved, including unsolicited interaction
-with those enforcing the Code of Conduct, is allowed during this period.
-Violating these terms may lead to a permanent ban.
+**Impact:** Serious misconduct, harassment, or repeated violations.
 
-### 4. Permanent Ban
+**Action:** Temporary suspension from community participation for a period determined by moderators.
 
-**Community Impact**: Demonstrating a pattern of violation of community
-standards, including sustained inappropriate behavior,  harassment of an
-individual, or aggression toward or disparagement of classes of individuals.
+---
 
-**Consequence**: A permanent ban from any sort of public interaction within
-the community.
+### Level 4 — Permanent Removal
 
-## Attribution
+**Impact:** Severe violations, targeted harassment, threats, malicious behavior, or repeated offenses after prior enforcement.
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage],
-version 2.0, available at
-https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
+**Action:** Permanent removal from ForgeX community spaces and services.
 
-Community Impact Guidelines were inspired by [Mozilla's code of conduct
-enforcement ladder](https://github.com/mozilla/diversity).
+---
 
-[homepage]: https://www.contributor-covenant.org
+## Our Vision
 
-For answers to common questions about this code of conduct, see the FAQ at
-https://www.contributor-covenant.org/faq. Translations are available at
-https://www.contributor-covenant.org/translations.
+ForgeX exists to empower creators by providing powerful, modern tools for GTA V and FiveM asset development.
+
+We believe strong communities are built through respect, collaboration, innovation, and a shared passion for creation.
+
+Together, we forge the future.
+
+---
+
+© ForgeX Development Team
+Maintained by Kai & Bobby
