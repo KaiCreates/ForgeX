@@ -1,64 +1,86 @@
-# Sollumz
-Blender plugin to import, export, or create GTA V assets.
+# ForgeX
 
-By Skylumz, Colton Fox and alexguirre.
+Advanced Blender Toolkit for GTA V and FiveM Asset Development
 
-## Join our Discord
-Join the Sollumz [discord server](https://discord.sollumz.org/) to ask questions and chat with the community!
-## Using the plugin
-See the [wiki](https://docs.sollumz.org/) to get started. Make sure to read the wiki before posting an issue or asking questions! Also, see the Tutorials and Resources channel on the Discord server.
+Created and maintained by Kai and Bobby.
 
-**Note:** The issue tracker should be for bug reports and feature requests only. If you are having an issue and you are not sure if it is a bug or not, ask on the Discord server first!
+## Overview
 
-## Features ##
+ForgeX is a modern Blender toolkit designed to streamline the creation, editing, optimization, and export of GTA V and FiveM assets. Built upon the foundation of open-source community tooling, ForgeX focuses on providing a faster workflow, enhanced validation systems, modern UI design, and direct FiveM integration.
 
-**Supported Formats**
-  * YDD
-  * YDR
-  * YFT
-  * YBN
-  * YTYP
-  * YCD
-  * YMAP (Partial)
+## Community
 
-**General Features**
-  * Import / Export
-  * Automatic texture loading
-  * Vertex colors
-  * Bones and weights
-  * Animations
-  * Custom normals
-  * Shader editing
-  * Vehicle creation/editing
-  * Dynamic prop creation/editing
+Join the ForgeX community to get support, share projects, report issues, and connect with other creators.
 
-## Requirements ##
-  * [Blender 4.0 or newer](http://www.blender.org/download/)
-  * Recommended: latest CodeWalker release from [their discord](https://discord.gg/codewalker)
+### Resources
 
-## Installation ##
+* Documentation and User Guides
+* Video Tutorials
+* Community Support Channels
+* Development Roadmap
 
-Follow the [installation instructions on our wiki](https://docs.sollumz.org/getting-started/installation).
+## Features
 
----
+### Supported Asset Types
 
-### Supporters ❤️ ###
+* Vehicles
+* Clothing
+* Weapons
+* Props
+* Animations
+* Map Assets
+* Collision Files
+* Texture Dictionaries
 
-A big thank you to all of our supporters, including:
+### General Features
 
-- Code contributors on [GitHub](https://github.com/Sollumz/Sollumz/graphs/contributors).
-- Financial contributors on [Open Collective](https://opencollective.com/sollumz) and [GitHub Sponsors](https://github.com/sponsors/Sollumz).
-- dexyfex and the [CodeWalker](https://github.com/dexyfex/CodeWalker) contributors.
-- Our wiki host [GitBook](https://www.gitbook.com/).
+* Import and Export Tools
+* Automatic Texture Detection
+* Advanced Material Editor
+* Vertex Color Support
+* Bone and Weight Management
+* Animation Support
+* Custom Normal Editing
+* Collision Generation
+* LOD Generation
+* Resource Packaging
 
----
+### FiveM Tools
 
-## License
+* One-Click Resource Export
+* Resource Structure Generator
+* FXManifest Generator
+* Asset Validation System
+* Performance Analysis
+* Texture Optimization
+* Streaming Folder Builder
 
-Copyright (C) 2020-2025 Skylumz, Colton and alexguirre
+### ForgeX Assistant
 
-This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+* Project Validation
+* Missing Asset Detection
+* Material Recommendations
+* Optimization Reports
+* Automated Workflow Tools
 
-This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the [GNU General Public License](./LICENSE) for more details.
+## Requirements
 
-You should have received a copy of the GNU General Public License along with this program. If not, see <https://www.gnu.org/licenses/>.
+* Blender 4.0 or newer
+* GTA V Modding Knowledge Recommended
+* FiveM Development Knowledge Recommended
+
+## Installation
+
+Download the latest ForgeX release and install it through Blender's Add-ons menu.
+
+Edit → Preferences → Add-ons → Install
+
+Select the ForgeX package and enable the addon.
+
+## Vision
+
+ForgeX aims to provide creators with a complete Blender-to-FiveM pipeline, eliminating unnecessary external tools and reducing development time through automation, validation, and streamlined workflows.
+
+Built for creators. Designed for FiveM.
+
+— Kai & Bobby
